@@ -1,4 +1,4 @@
-# Cryptocurrency Price Status Discord Bot
+# FloorPrice Status Discord Bot
 
 This bot will update its status message with the current price of the desired cryptocurrency.
 
