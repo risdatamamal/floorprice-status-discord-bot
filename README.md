@@ -1,10 +1,8 @@
 # FloorPrice Status Discord Bot
 
-This bot will update its status message with the current price of the desired cryptocurrency.
+This bot will update its status message with the floorprice of the desired degods solana.
 
-Is based on [Minecraft Player Count Discord Bot](https://github.com/SpencerTorres/Minecraft-Player-Count-Discord-Bot) by Spencer Torres
-
-![Example bot setup.](https://i.imgur.com/aDy2dpj.png)
+![Example bot setup.](https://github.com/risdatamamal/degods-floorprice-status-discord-bot/blob/master/screenshot.png?raw=true)
 
 ## How to use
 
@@ -22,4 +20,4 @@ For information on getting a bot token, follow the steps on [the Discord develop
 
 This was created for my Discord server, but I wanted to share it with added flexibility for anyone to use.
 
-This relies on the API hosted at https://api.coingecko.com
+This relies on the Magiceden API hosted at https://api-mainnet.magiceden.dev
