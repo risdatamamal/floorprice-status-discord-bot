@@ -13,7 +13,7 @@ function getPrices() {
     .then((res) => {
       // If we got a valid response
       if (res.data && res.data.floorPrice && res.data.listedCount) {
-        let floorPriceNew = res.data.floorPrice || 0; // Default to zero
+        let floorPriceNew = res.data.floorPrice/1000000000 || 0; // Default to zero
         let listedCountNew = res.data.listedCount || 0; // Default to zero
         client.user.setPresence({
           game: {
